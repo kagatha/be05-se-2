@@ -1,0 +1,11 @@
+nama : Putra mentee
+https://github.com/kagatha
+algoritma : makan roti panggang,
+		rotinya ada di dapur,
+		saya ada di kamar.
+1.mulai
+2.keluar kamar
+3.menuju ke dapur
+4.ambil roti
+5.panaskan loyang
+6.oleskan roti dengan mentega
